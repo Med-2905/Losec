@@ -1,0 +1,15 @@
+#qnt {
+    width : 4rem;
+}
+.counter{
+    width : 50% ; 
+    margin: 0 auto;
+}
+.custom-link {
+        color: black;
+        text-decoration: none;
+    }
+
+    .custom-link:hover {
+        color: gray;
+    }
